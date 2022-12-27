@@ -1,4 +1,6 @@
-<h1 align="center" bg_color="ffffff">Hi, I'm <img  width="17" src="./assets/mapofnepal.gif"/>Saroj Prasad Mainali <img width="17" src="./assets/mapofnepal.gif"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30" height="30"></h1>
+<img src="./assets/test.jpg">
+<h1 align="center">Hi, I'm <img  width="17" src="./assets/mapofnepal.gif"/>Saroj Prasad Mainali <img width="17" src="./assets/mapofnepal.gif"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30" height="30"></h1>
+<p align="center"><img src="./assets/saroj.png" width="150"></p>
 <h3 align="center">Quick Learner, Problem Solver, Coding lover.</h3>
 </picture>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=voidcu&label=Profile%20views&color=0e75b6&style=flat" alt="voidcu" /> 
