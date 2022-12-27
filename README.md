@@ -2,7 +2,7 @@
 <h3 align="center">Quick Learner, Problem Solver, Coding lover.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=voidcu&label=Profile%20views&color=0e75b6&style=flat" alt="voidcu" /> </p>
-
+<img align="right" width="250" src="./assets/mapofnepa.gif"/>
 - 🔭 I’m currently working on [perceparator](https://github.com/VoidCU/perceparator)
 
 - 🌱 I’m currently learning **Machine Learning, THREEJS**
