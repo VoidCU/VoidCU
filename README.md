@@ -1,30 +1,53 @@
-<h1 align="center">Hi 👋, I'm Saroj Prasad Mainali</h1>
+<h1 align="center" bg_color="ffffff">Hi, I'm <img  width="17" src="./assets/mapofnepal.gif"/>Saroj Prasad Mainali <img width="17" src="./assets/mapofnepal.gif"/><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="30" height="30"></h1>
 <h3 align="center">Quick Learner, Problem Solver, Coding lover.</h3>
+</picture>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=voidcu&label=Profile%20views&color=0e75b6&style=flat" alt="voidcu" /> 
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=voidcu&label=Profile%20views&color=0e75b6&style=flat" alt="voidcu" /> </p>
-<img align="right" width="250" src="./assets/mapofnepa.gif"/>
-- 🔭 I’m currently working on [perceparator](https://github.com/VoidCU/perceparator)
+- 🔭 I’m currently working on [**Perceparator** (4th year Major Project)](https://github.com/VoidCU/perceparator)
 
 - 🌱 I’m currently learning **Machine Learning, THREEJS**
 
 - 📫 How to reach me **sarojprasadmainali@gmail.com**
 
 - ⚡ Fun fact **I understand Programming jokes.**
+
+</p>
+<br>
+<hr>
+<h2 align="center">Have Idea about:</h2>
+<p align="center">
+<img alt="arduino" src="https://img.shields.io/badge/-Arduino-038C8C?style=plastic&logo=arduino&logoColor=white" height="25"/>
+<img alt="React" src="https://img.shields.io/badge/-React-61cafb?style=plastic&logo=react&logoColor=white" height="25" />
+<img alt="Blender" src="https://img.shields.io/badge/-Blender-ea6700?style=plastic&logo=blender&logoColor=ffffff" height="25" />
+<img alt="C-programming" src="https://img.shields.io/badge/-C Programming-A8B9CC?style=plastic&logo=C&logoColor=ffffff" height="25" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=ffffff" height="25" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-488bbf?style=plastic&logo=python&logoColor=ffd438" height="25" />
+<img alt="c#" src="https://img.shields.io/badge/-C Sharp-239120?style=plastic&logo=cplusplus&logoColor=ffffff" height="25" />
+<img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=ffffff" height="25" />
+<img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=HTML5&logoColor=ffffff" height="25" />
+<img alt="flask" src="https://img.shields.io/badge/-Flask-000000?style=plastic&logo=flask&logoColor=ffffff" height="25" />
+<img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=ffffff" height="25" />
+<img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=ffffff" height="25" />
+<img alt="flutter" src="https://img.shields.io/badge/-FLutter-02569B?style=plastic&logo=flutter&logoColor=ffffff" height="25" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=ffffff" height="25" />
+<img alt="github" src="https://img.shields.io/badge/-Github-181717?style=plastic&logo=github&logoColor=ffffff" height="25" />
+<img alt="photoshop" src="https://img.shields.io/badge/-Photoshop-31a8ff?style=plastic&logo=adobephotoshop&logoColor=ffffff" height="25" />
+<img alt="ill" src="https://img.shields.io/badge/-Illustrator-ff9a00?style=plastic&logo=adobeillustrator&logoColor=ffffff" height="25" />
+<img alt="pp" src="https://img.shields.io/badge/-PremierePro-ff9a00?style=plastic&logo=adobepremierepro&logoColor=ffffff" height="25" />
+<img alt="unity" src="https://img.shields.io/badge/-Unity-ffffff?style=plastic&logo=unity&logoColor=000000" height="25" />
+<img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=000000" height="25" />
+<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5c3ee8?style=plastic&logo=OpenCV&logoColor=000000" height="25" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=plastic&logo=Node.js&logoColor=000000" height="25" />
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=plastic&logo=PyTorch&logoColor=000000" height="25" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=000000" height="25" />
+</p>
 <hr>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/sarojpmainali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarojpmainali" height="40" width="50"/></a>
-<a href="https://linkedin.com/in/saroj-prasad-mainali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saroj-prasad-mainali" height="40" width="50" /></a>
-<a href="https://kaggle.com/sarojprasadmainali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarojprasadmainali" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/saroj-prasad-mainali" target="blank"><img align="center" src="https://asset.brandfetch.io/idJFz6sAsl/idZ43Jg46z.svg" height="40" width="50" /></a>
 <a href="https://instagram.com/sarojprasadmainali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarojprasadmainali" height="40" width="50" /></a>
-<a href="https://codeforces.com/profile/voidcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="voidcu" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/voidcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="voidcu" height="40" width="50" /></a>
+
 </p>
 <hr>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=voidcu&show_icons=true&locale=en&layout=compact&theme=onedark&border_radius=10" alt="voidcu"  /></p>
-<br>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=voidcu&show_icons=true&locale=en&theme=onedark&border_radius=10" alt="voidcu" /></p>
-
