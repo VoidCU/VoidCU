@@ -38,11 +38,11 @@
 <img alt="ill" src="https://img.shields.io/badge/-Illustrator-ff9a00?style=plastic&logo=adobeillustrator&logoColor=ffffff" height="25" />
 <img alt="pp" src="https://img.shields.io/badge/-PremierePro-ff9a00?style=plastic&logo=adobepremierepro&logoColor=ffffff" height="25" />
 <img alt="unity" src="https://img.shields.io/badge/-Unity-ffffff?style=plastic&logo=unity&logoColor=000000" height="25" />
-<img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=000000" height="25" />
-<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5c3ee8?style=plastic&logo=OpenCV&logoColor=000000" height="25" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=plastic&logo=Node.js&logoColor=000000" height="25" />
-<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=plastic&logo=PyTorch&logoColor=000000" height="25" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=000000" height="25" />
+<img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=ffffff" height="25" />
+<img alt="opencv" src="https://img.shields.io/badge/-OpenCV-5c3ee8?style=plastic&logo=OpenCV&logoColor=ffffff" height="25" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=plastic&logo=Node.js&logoColor=ffffff" height="25" />
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=plastic&logo=PyTorch&logoColor=ffffff" height="25" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=ffffff" height="25" />
 </p>
 <hr>
 <h2 align="center">Connect with me:</h2>
