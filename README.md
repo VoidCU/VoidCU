@@ -26,6 +26,17 @@ Based in **Kathmandu, Nepal**. Computer Engineering graduate of **Thapathali Cam
 
 <sub>Career totals from my portfolio; the repository total is not a live count of public repositories. Beyond the work: 300+ happy people and friends around the world.</sub>
 
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-metrics-light.svg">
+  <img src="./assets/github-metrics-dark.svg" alt="VoidCU's GitHub activity dashboard: repository statistics, languages, isometric contributions calendar, streaks, recently starred repositories, and followers" width="760">
+</picture>
+
+<sub>Generated from GitHub and refreshed daily. Repository and language statistics cover owned public repositories; languages exclude forks. Contribution totals and streaks cover the displayed year and reflect GitHub's visibility rules.</sub>
+
+[Repositories](https://github.com/VoidCU?tab=repositories) · [Starred projects](https://github.com/VoidCU?tab=stars) · [Followers](https://github.com/VoidCU?tab=followers) · [Dashboard updates](https://github.com/VoidCU/VoidCU/actions/workflows/profile-metrics.yml)
+
 ## Engineering focus
 
 | Area | My experience |
