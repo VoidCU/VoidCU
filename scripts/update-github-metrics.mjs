@@ -44,6 +44,7 @@ const weeks = account.contributionsCollection.contributionCalendar.weeks
   .map(week => ({ contributionDays: week.contributionDays.filter(day => day.date <= snapshot) }))
   .filter(week => week.contributionDays.length);
 const days = weeks.flatMap(w => w.contributionDays);
+const contributionTotal = days.reduce((total,day) => total+day.contributionCount,0);
 let longest = 0, run = 0;
 for (const d of days) { run = d.contributionCount ? run + 1 : 0; longest = Math.max(longest, run); }
 let last = days.length - 1;
@@ -116,7 +117,7 @@ for(const theme of ['light','dark']) {
  for(const language of top){const w=totalBytes?704*language.bytes/totalBytes:0;body+=`<rect x="${bx}" y="686" width="${w}" height="10" fill="${language.color}"/>`;bx+=w;}
  top.forEach((l,i)=>{const x=28+(i%3)*240,y=731+Math.floor(i/3)*31;body+=`<circle cx="${x+5}" cy="${y-5}" r="5" fill="${l.color}"/>`+text(x+18,y,`${l.name} ${(100*l.bytes/totalBytes).toFixed(1)}%`,15);});
  body+=section(852,'Contributions calendar');
- body+=text(28,884,`${n(activity.contributionCalendar.totalContributions)} contributions · ${days[0].date} to ${days.at(-1).date}`,16,c.muted);
+ body+=text(28,884,`${n(contributionTotal)} contributions · ${days[0].date} to ${days.at(-1).date}`,16,c.muted);
  const colors=theme==='dark'?['#161b22','#0e4429','#006d32','#26a641','#39d353']:['#ebedf0','#9be9a8','#40c463','#30a14e','#216e39'];
  const levels={NONE:0,FIRST_QUARTILE:1,SECOND_QUARTILE:2,THIRD_QUARTILE:3,FOURTH_QUARTILE:4};
  weeks.forEach((week,w)=>week.contributionDays.forEach(day=>{
@@ -128,7 +129,7 @@ for(const theme of ['light','dark']) {
   body+='</g>';
  }));
  body+=metric(28,1250,'day current streak',current)+metric(402,1250,'day best streak',longest);
- body+=metric(28,1290,'most contributions/day',Math.max(...days.map(d=>d.contributionCount)))+text(402,1290,(activity.contributionCalendar.totalContributions/days.length).toFixed(1),23,c.fg,600)+text(504,1290,'average per day',16,c.muted);
+ body+=metric(28,1290,'most contributions/day',Math.max(...days.map(d=>d.contributionCount)))+text(402,1290,(contributionTotal/days.length).toFixed(1),23,c.fg,600)+text(504,1290,'average per day',16,c.muted);
  body+=text(28,1324,'Streaks count contribution days, not only commits · displayed year · UTC',13,c.muted);
  body+=section(1376,'Recently starred repositories');
  const starred=account.starredRepositories.edges.filter(e=>!e.node.isPrivate);
